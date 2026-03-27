@@ -1,1 +1,1 @@
-![GitHub Languages](https://git-chart.vercel.app/api/chart?username=joaodemutti)
+![GitHub Languages](https://git-chart.vercel.app/?username=joaodemutti)
